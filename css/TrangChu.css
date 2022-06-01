@@ -1,0 +1,298 @@
+header .icon {
+    font-size: 20px;
+}
+
+header .hotline {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #866244;
+}
+
+.header-first {
+    height: 45px;
+}
+
+header .header1 {
+    margin-right: 10%;
+    margin-top: 6px;
+}
+
+header .container-fluid {
+    background-color: #65688712;
+}
+
+header p {
+    margin: 0 .5rem;
+}
+
+.logo-img img {
+    width: 50%;
+}
+
+.logo-img a {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav .logo {
+    height: 70px;
+}
+
+.nav .menu {
+    height: 70px;
+}
+
+.nav .account {
+    height: 70px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav .logo {
+    margin-top: 10px;
+}
+
+.nav .menu ul {
+    margin-top: 10px;
+}
+
+.nav .account a {
+    margin-top: 28px;
+    text-transform: uppercase;
+    color: #866244;
+    font-size: 13px;
+}
+
+.nav .account a i {
+    font-size: 18px;
+}
+
+.nav .menu ul li {
+    padding-left: -20px;
+    padding-top: 10px;
+}
+
+.nav .menu ul li .nav-link {
+    color: #886244;
+    text-transform: uppercase;
+}
+
+.nav .menu ul li a {
+    font-size: 13px;
+}
+
+section .dvca {
+    margin-top: 30px;
+}
+
+.dvca .dvca-bar {
+    background-color: #866244;
+}
+
+.dvca .dvca-bar p {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+
+.dvca .dvca-bar a {
+    color: white;
+    font-size: 14px;
+    padding-top: 14px;
+}
+
+.dvca .dvca-img .img-item img {
+    width: 360px;
+    height: 213px;
+}
+
+section .qp {
+    margin-top: 30px;
+}
+
+.qp .qp-bar {
+    background-color: #866244;
+}
+
+.qp .qp-bar p {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+
+.qp .qp-bar a {
+    color: white;
+    font-size: 14px;
+    padding-top: 14px;
+}
+
+.qp .qp-img .img-item img {
+    width: 360px;
+    height: 213px;
+}
+
+section .bstvc {
+    margin-top: 30px;
+}
+
+.bstvc .bstvc-bar {
+    background-color: #866244;
+}
+
+.bstvc .bstvc-bar p {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+
+.bstvc .bstvc-bar a {
+    color: white;
+    font-size: 14px;
+    padding-top: 14px;
+}
+
+.bstvc .bstvc-img .img-item img {
+    width: 360px;
+    height: 213px;
+}
+
+section .bg {
+    margin-top: 30px;
+}
+
+.bg .bg-bar {
+    background-color: #866244;
+}
+
+.bg .bg-bar p {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+
+.bg .bg-bar a {
+    color: white;
+    font-size: 14px;
+    padding-top: 14px;
+}
+
+.bg .bg-img .img-item img {
+    width: 360px;
+    height: 213px;
+}
+
+section .cnkh {
+    margin-top: 30px;
+}
+
+.cnkh .cnkh-bar {
+    background-color: #866244;
+}
+
+.cnkh .cnkh-bar p {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+
+.cnkh .cnkh-bar a {
+    color: white;
+    font-size: 14px;
+    padding-top: 14px;
+}
+
+.cnkh .cnkh-img .img-item img {
+    width: 100px;
+    height: 103px;
+}
+
+.cnkh .img {
+    display: flex;
+}
+
+.cnkh .img .title {
+    padding-left: 18px;
+}
+
+.cnkh .img .title p {
+    font-size: 12px;
+    color: #866244;
+}
+
+.cnkh .img .title h3 {
+    font-size: 14px;
+    color: #866244;
+}
+
+.cnkh .img .img-item img {
+    border-radius: 50px;
+}
+
+section .coop h2 {
+    text-transform: uppercase;
+    color: #866244;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.coop {
+    padding-top: 20px;
+}
+
+footer {
+    background-color: whitesmoke;
+    padding-top: 45px;
+    height: 520px;
+}
+
+.footer-left .footer-title iframe {
+    width: 350px;
+    height: 200px;
+}
+
+footer h2 {
+    font-size: 17px;
+    color: #866244;
+    font-weight: bolder;
+
+}
+
+footer h5 {
+    font-size: 14px;
+}
+
+footer .footer-left .footer-title p {
+    font-size: 14px;
+    color: #866244;
+}
+
+footer .footer-center .footer-icon {
+    padding-top: 100px;
+}
+
+footer .footer-center .footer-icon a i {
+    font-size: 30px;
+}
+
+.card {
+    border: none !important;
+    background-color: whitesmoke !important;
+    padding-left: 8px;
+}
+
+.footer-bottom {
+    background-color: #886244;
+}
+
+.footer-bottom p {
+    color: #FFFFFF80;
+    font-size: 13px;
+    padding-top: 15px;
+    text-align: center;
+}

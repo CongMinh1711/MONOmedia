@@ -1,0 +1,206 @@
+header .icon {
+    font-size: 20px;
+}
+
+header .hotline {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #866244;
+}
+
+.header-first {
+    height: 45px;
+}
+
+header .header1 {
+    margin-right: 10%;
+    margin-top: 6px;
+}
+
+header .container-fluid {
+    background-color: #65688712;
+}
+
+header p {
+    margin: 0 .5rem;
+}
+
+.logo-img img {
+    width: 50%;
+}
+
+.logo-img a {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav .logo {
+    height: 70px;
+}
+
+.nav .menu {
+    height: 70px;
+}
+
+.nav .account {
+    height: 70px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav .logo {
+    margin-top: 10px;
+}
+
+.nav .menu ul {
+    margin-top: 10px;
+}
+
+.nav .account a {
+    margin-top: 28px;
+    text-transform: uppercase;
+    color: #866244;
+    font-size: 13px;
+}
+
+.nav .account a i {
+    font-size: 18px;
+}
+
+.nav .menu ul li {
+    padding-left: -20px;
+    padding-top: 10px;
+}
+
+.nav .menu ul li .nav-link {
+    color: #886244;
+    text-transform: uppercase;
+}
+
+.nav .menu ul li a {
+    font-size: 13px;
+}
+
+
+/*end header và slider*/
+section{
+    padding-bottom:35px ;
+}
+
+section .film {
+    margin-top: 30px;
+}
+
+.film .about-bar {
+    background-color: #866244;
+}
+
+.film .about-bar a {
+    color: white;
+    font-size: 16px !important;
+    padding-top: 14px;
+}
+.film .film-bar-title p {
+    color: #866244;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 15px;
+    font-weight: bolder;
+}
+
+.film .film-bar-title a {
+    color: #866244;
+    font-size: 14px;
+    padding-top: 14px;
+}
+
+.about-bar nav ol{
+    list-style: none;
+    display: flex;
+}
+
+.about-bar nav .sign{
+    color: gray !important;
+}
+
+.about-bar nav ol li:nth-child(2){
+    margin-left: 10px;
+}
+
+.about-bar nav ol li:nth-child(3){
+    margin-left: 10px;
+    font-weight: bolder;
+}
+
+.film .about-bar {
+    background-color: #866244;
+}
+
+.film .about-bar nav ol li  {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+
+.film .film-vid .vid-item iframe {
+    width: 360px;
+    height: 213px;
+}
+
+
+/*footer*/
+
+footer {
+    background-color: whitesmoke;
+    padding-top: 45px;
+    height: 520px;
+}
+
+.footer-left .footer-title iframe {
+    width: 350px;
+    height: 200px;
+}
+
+footer h2 {
+    font-size: 17px;
+    color: #866244;
+    font-weight: bolder;
+}
+
+footer h5 {
+    font-size: 14px;
+}
+
+footer .footer-left .footer-title p {
+    font-size: 14px;
+    color: #866244;
+}
+
+footer .footer-center .footer-icon {
+    padding-top: 100px;
+}
+
+footer .footer-center .footer-icon a i {
+    font-size: 30px;
+}
+
+footer .card {
+    border: none !important;
+    background-color: whitesmoke !important;
+    padding-left: 8px;
+}
+
+.footer-bottom {
+    background-color: #886244;
+}
+
+.footer-bottom p {
+    color: #FFFFFF80;
+    font-size: 13px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+
+/*end footer*/

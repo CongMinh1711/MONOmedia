@@ -1,0 +1,201 @@
+header .icon {
+    font-size: 20px;
+}
+
+header .hotline {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #866244;
+}
+
+.header-first {
+    height: 45px;
+}
+
+header .header1 {
+    margin-right: 10%;
+    margin-top: 6px;
+}
+
+header .container-fluid {
+    background-color: #65688712;
+}
+
+header p {
+    margin: 0 .5rem;
+}
+
+.logo-img img {
+    width: 50%;
+}
+
+.logo-img a {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav .logo {
+    height: 70px;
+}
+
+.nav .menu {
+    height: 70px;
+}
+
+.nav .account {
+    height: 70px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav .logo {
+    margin-top: 10px;
+}
+
+.nav .menu ul {
+    margin-top: 10px;
+}
+
+.nav .account a {
+    margin-top: 28px;
+    text-transform: uppercase;
+    color: #866244;
+    font-size: 13px;
+}
+
+.nav .account a i {
+    font-size: 18px;
+}
+
+.nav .menu ul li {
+    padding-left: -20px;
+    padding-top: 10px;
+}
+
+.nav .menu ul li .nav-link {
+    color: #886244;
+    text-transform: uppercase;
+}
+
+.nav .menu ul li a {
+    font-size: 13px;
+}
+
+
+/*end header*/
+
+form {
+    display: block;
+    padding-left: 30px;
+    padding-top: 40px;
+}
+
+form h3 {
+    text-transform: uppercase;
+    color: #1C1C1C;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+form label {
+    color: #222222;
+    font-size: 14.4px;
+    font-weight: bold;
+}
+
+form input {
+    height: 35px;
+    width: 82%;
+}
+
+.login input {
+    width: 98%;
+}
+
+.login {
+    padding-left: 108px;
+}
+
+form button {
+    background-color: #886244;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15.52px;
+    font-weight: bold;
+    padding: .5rem 18px;
+}
+
+.two {
+    padding-top: 20px;
+}
+
+.three {
+    padding-top: 20px;
+    padding-left: 5px;
+}
+
+section {
+    height: 440px;
+}
+
+
+/*footer*/
+
+footer {
+    background-color: whitesmoke;
+    padding-top: 45px;
+    height: 520px;
+}
+
+.footer-left .footer-title iframe {
+    width: 350px;
+    height: 200px;
+}
+
+footer h2 {
+    font-size: 17px;
+    color: #866244;
+    font-weight: bolder;
+}
+
+footer h5 {
+    font-size: 14px;
+}
+
+footer .footer-left .footer-title p {
+    font-size: 14px;
+    color: #866244;
+}
+
+footer .footer-center .footer-icon {
+    padding-top: 100px;
+}
+
+footer .footer-center .footer-icon a i {
+    font-size: 30px;
+}
+
+.card {
+    border: none !important;
+    background-color: whitesmoke !important;
+    padding-left: 8px;
+}
+
+.footer-bottom {
+    background-color: #886244;
+}
+
+.footer-bottom p {
+    color: #FFFFFF80;
+    font-size: 13px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+    color: #222222;
+}
+
+
+/*end footer*/
